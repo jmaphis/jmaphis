@@ -1,16 +1,11 @@
-### Hi there 👋
+Thank you for taking the time to visit my Github page! My name is James Maphis, I am a self taught, full stack developer from St. Petersburg, FL. I've been studying programming and web developemant for over 2 years now, and I have the following skills:
 
-<!--
-**jmaphis/jmaphis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Javascript 
+Typescript
+Flask
+React
+SQL
+HTML
+CSS
+Docker
