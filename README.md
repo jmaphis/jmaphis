@@ -5,6 +5,7 @@ Javascript<br>
 Typescript<br>
 Flask<br>
 React<br>
+Numpy<br>
 SQL<br>
 HTML<br>
 CSS<br>
