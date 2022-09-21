@@ -7,6 +7,6 @@ Thank you for taking the time to visit my Github page! My name is James Maphis, 
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![CSS](https://img.shields.io/static/v1?message=CSS&logo=css&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
