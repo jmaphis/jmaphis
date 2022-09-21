@@ -4,8 +4,8 @@ Thank you for taking the time to visit my Github page! My name is James Maphis, 
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-React<br>
-Numpy<br>
+![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 SQL<br>
 HTML<br>
 CSS<br>
