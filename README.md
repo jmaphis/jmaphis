@@ -10,6 +10,6 @@ Thank you for taking the time to visit my Github page! My name is James Maphis, 
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=informational&logoColor=013243&label=%20&style=plastic)<br>
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=informational&logoColor=E34F26&label=%20&style=plastic)<br>
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=informational&logoColor=1572B6&label=%20&style=plastic)<br>
-![Git](https://img.shields.io/v1?message=Git&logo=git&labelColor=5c5c5c&color=informational&logoColor=F05032label=%20&style=plastic)<br>
+![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=informational&logoColor=F05032&label=%20&style=plastic)<br>
 ![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=5c5c5c&color=informational&logoColor=2496ED&label=%20&style=plastic)<br>
 
