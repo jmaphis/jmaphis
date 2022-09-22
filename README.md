@@ -1,3 +1,5 @@
+## Hello!
+
 Thank you for taking the time to visit my Github page! <br>
 My name is James Maphis, I am a self taught, full stack developer from St. Petersburg, FL. <br>
 I love cats, playing video games, and performing stand up comedy.
