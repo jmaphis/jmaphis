@@ -1,6 +1,6 @@
 Thank you for taking the time to visit my Github page! My name is James Maphis, I am a self taught, full stack developer from St. Petersburg, FL. I love cats, playing video games and performing stand up comedy. I've been studying programming and web developement for over 2 years, and I have the following skills:
 
-![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=informational&logoColor=3776AB&label=%20&style=plastic)
+![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=informational&logoColor=3776AB&label=%20&?logoWidth=40style=plastic)
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=informational&logoColor=F7DF1E&label=%20&style=plastic)
 ![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=5c5c5c&color=informational&logoColor=3178C6&label=%20&style=plastic)
 ![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&labelColor=5c5c5c&color=informational&logoColor=white&label=%20&style=plastic)
