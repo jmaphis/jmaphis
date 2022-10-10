@@ -18,6 +18,6 @@ I love cats, playing video games, and performing stand up comedy.
 ![Godot Engine](https://img.shields.io/static/v1?message=Godot%20Engine&logo=godotengine&labelColor=5c5c5c&color=informational&logoColor=478CBF&label=%20&style=plastic)<br>
 
 ### Projects:
-[Smartographer](smartographer.fly.dev)<br>
+[Smartographer](http://smartographer.fly.dev)<br>
 [Weather Tracker](https://maphis-weather.netlify.app)<br>
 More coming soon!<br>
