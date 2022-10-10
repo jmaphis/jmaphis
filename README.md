@@ -19,4 +19,5 @@ I love cats, playing video games, and performing stand up comedy.
 
 ### Projects:
 [Smartographer](smartographer.fly.dev)<br>
+[Weather Tracker](https://maphis-weather.netlify.app)<br>
 More coming soon!<br>
