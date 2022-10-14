@@ -14,6 +14,7 @@ I love cats, playing video games, and performing stand up comedy.
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=informational&logoColor=E34F26&label=%20&style=plastic)<br>
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=informational&logoColor=1572B6&label=%20&style=plastic)<br>
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=informational&logoColor=F05032&label=%20&style=plastic)<br>
+![Linux](https://img.shields.io/static/v1?message=Linux%20Engine&logo=godotengine&labelColor=5c5c5c&color=informational&logoColor=FCC624&label=%20&style=plastic)<br>
 ![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=5c5c5c&color=informational&logoColor=2496ED&label=%20&style=plastic)<br>
 ![Godot Engine](https://img.shields.io/static/v1?message=Godot%20Engine&logo=godotengine&labelColor=5c5c5c&color=informational&logoColor=478CBF&label=%20&style=plastic)<br>
 
