@@ -9,6 +9,7 @@ I love cats, playing video games, and performing stand up comedy.
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=informational&logoColor=F7DF1E&label=%20&style=plastic)<br>
 ![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=5c5c5c&color=informational&logoColor=3178C6&label=%20&style=plastic)<br>
 ![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&labelColor=5c5c5c&color=informational&logoColor=white&label=%20&style=plastic)<br>
+![Django](https://img.shields.io/static/v1?message=Django&logo=django&labelColor=5c5c5c&color=informational&logoColor=092E20&label=%20&style=plastic)<br>
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=informational&logoColor=61DAFB&label=%20&style=plastic)<br>
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=informational&logoColor=013243&label=%20&style=plastic)<br>
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=informational&logoColor=E34F26&label=%20&style=plastic)<br>
