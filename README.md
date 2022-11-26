@@ -25,4 +25,4 @@ I love cats, playing video games, performing stand up comedy and, of course, wri
 [Flaskr](http://flaskr.fly.dev) *<br>
 More coming soon!<br>
 
-\* From a tutorial
+<sup>\* From a tutorial</sup>
