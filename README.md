@@ -22,4 +22,7 @@ I love cats, playing video games, performing stand up comedy and, of course, wri
 ### Projects:
 [Smartographer](http://smartographer.fly.dev)<br>
 [Weather Tracker](https://maphis-weather.netlify.app)<br>
+[Flaskr](http://flaskr.fly.dev) *<br>
 More coming soon!<br>
+
+* From a tutorial
